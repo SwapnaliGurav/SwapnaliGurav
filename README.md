@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnaligurav&label=Profile%20views&color=0e75b6&style=flat" alt="swapnaligurav" /> </p>
 
-- 🔭 I’m currently working on **Freelancing for Web Application Developer**
+- 🔭 I’m currently working on **Web Application Developer**
 
-- 🌱 I’m currently learning **Laravel, Python**
+- 🌱 I’m currently learning **Reactjs**
 
 - 📫 How to reach me **guravswapnali1512@gmail.com**
 
